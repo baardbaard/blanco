@@ -1,0 +1,45 @@
+{
+	"title": "italiano",
+	"cards": [
+		{
+			"front": "a buon mercato",
+			"back": "cheap; at a good price"
+		},
+		{
+			"front": "a destra",
+			"back": "to the right"
+		},
+		{
+			"front": "a presto!",
+			"back": "see you soon!"
+		},
+		{
+			"front": "a sinistra",
+			"back": "to the left"
+		},
+		{
+			"front": "abbastanza",
+			"back": "enough"
+		},
+		{
+			"front": "abitare",
+			"back": "to live (somewhere); to reside"
+		},
+		{
+			"front": "accendere",
+			"back": "to ignite, to turn on"
+		},
+		{
+			"front": "accettare",
+			"back": "to accept; to admit"
+		},
+		{
+			"front": "adesso",
+			"back": "now"
+		},
+		{
+			"front": "affaticato",
+			"back": "tired"
+		}
+	]
+}

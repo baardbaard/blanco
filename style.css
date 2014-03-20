@@ -1,0 +1,36 @@
+body {
+	font-family: arial, sans-serif;
+	background-color: rgb(247, 247, 247);
+}
+
+.cards {
+	max-width: 40em;
+	margin: 4em auto;
+}
+
+.cards__title {
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+.cards__list {
+	padding: 0;
+}
+
+.cards__list__item {
+	margin: 1em 0;
+	padding: 2em;
+	font-size: 30px;
+	text-align: center;
+	background-color: rgb(51, 50, 51);
+	color: rgb(247, 247, 247);
+}
+
+.cards__list__item__front {
+	padding-bottom: .5em;
+	border-bottom: 1px solid rgb(247, 247, 247);
+}
+
+.card__list__item__back {
+	padding-top: .5em;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>blanco</title>
+		<script src="assets/js/lib/jquery-2.1.0.js"></script>
+		<script src="assets/js/lib/handlebars-v1.3.0.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<section class="cards" id="js-cards">
+		<script id="js-cards-template" type="text/x-handlebars-template">
+			<h1 class="cards__title">{{title}}</h1>
+			{{#each cards}}
+			<ul class="cards__list">
+				<li class="cards__list__item">
+					<div class="cards__list__item__front">{{front}}</div>
+					<div class="card__list__item__back">{{back}}</div>
+				</li>
+			</ul>
+			{{/each}}
+		</script>
+		</section>
+		<script src="assets/js/src/script.js"></script>
+	</body>
+</html>
